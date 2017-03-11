@@ -8,9 +8,9 @@ List of reading lists and survey papers:
 
 ### Review Papers
 
-  * [Representation Learning: A Review and New Perspectives](http://arxiv.org/abs/1206.5538), Yoshua Bengio, Aaron Courville, Pascal Vincent, Arxiv, 2012.
+  * [Representation Learning: A Review and New Perspectives](http://arxiv.org/abs/1206.5538), Yoshua Bengio, Aaron Courville, Pascal Vincent, Arxiv, 2012. cited by 1746.
   * The monograph or review paper: [Learning Deep Architectures for AI](http://www.iro.umontreal.ca/~lisa/publications2/index.php/publications/show/239), Foundations & Trends in Machine Learning, 2009.
-  * [Deep Machine Learning – A New Frontier in Artificial Intelligence Research](http://www.ece.utk.edu/~itamar/Papers/DML_Arel_2010.pdf), a survey paper by Itamar Arel, Derek C. Rose, and Thomas P. Karnowski.
+  * [Deep Machine Learning – A New Frontier in Artificial Intelligence Research](http://www.ece.utk.edu/~itamar/Papers/DML_Arel_2010.pdf), a survey paper by Itamar Arel, Derek C. Rose, and Thomas P. Karnowski. 2010, cited by 367. 
   * [Supervised sequence labelling with recurrent neural networks](https://www.cs.toronto.edu/~graves/preprint.pdf), Graves, A. Springer(2012).
   * [Deep Learning in Neural Networks: An Overview](https://arxiv.org/pdf/1404.7828.pdf), Schmidhuber, J. (2014). 75 pages, 850+ references.
   * [Deep learning](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf), LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. Nature 521, no. 7553 (2015): 436-444.
