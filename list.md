@@ -73,6 +73,49 @@ List of reading lists and survey papers:
 
 ### Foundation Theory and Motivation
 
+  * [Deterministic Boltzmann learning performs steepest descent in weight-space](http://www.cs.toronto.edu/~fritz/absps/dbmNC.pdf). Hinton, Geoffrey E. Neural computation 1.1 (1989): 143-150. cited by 197. 
+  * [Modeling high-dimensional discrete data with multi-layer neural networks](). Bengio, Yoshua, and Samy Bengio. Advances in Neural Information Processing Systems 12 (2000): 400-406. cited by 57.
+  * [Greedy layer-wise training of deep networks](https://papers.nips.cc/paper/3048-greedy-layer-wise-training-of-deep-networks.pdf). Bengio, Yoshua, et al. Advances in neural information processing systems 19 (2007): 153.
+  * [Nonlocal estimation of manifold structure](http://www.iro.umontreal.ca/~lisa/pointeurs/nc-submission.pdf). Bengio, Yoshua, Martin Monperrus, and Hugo Larochelle. Neural Computation 18.10 (2006): 2509-2528.
+  * [Reducing the dimensionality of data with neural networks](https://www.cs.toronto.edu/~hinton/science.pdf). Hinton, Geoffrey E., and Ruslan R. Salakhutdinov. Science 313.5786 (2006): 504-507. cited by 4567. 
+  * [Sparse feature learning for deep belief networks](https://papers.nips.cc/paper/3363-sparse-feature-learning-for-deep-belief-networks.pdf). Marc’Aurelio Ranzato, Y., Lan Boureau, and Yann LeCun. Advances in neural information processing systems 20 (2007): 1185-1192. cited by 448.
+  * [Scaling learning algorithms towards AI](http://yann.lecun.com/exdb/publis/pdf/bengio-lecun-07.pdf). Bengio, Yoshua, and Yann LeCun. Large-Scale Kernel Machines 34 (2007). cited by 594.
+  * [Representational power of restricted boltzmann machines and deep belief networks](http://www.iro.umontreal.ca/~lisa/publications2/index.php/attachments/single/22). Le Roux, Nicolas, and Yoshua Bengio. Neural Computation 20.6 (2008): 1631-1649.
+  * [Temporal-Kernel Recurrent Neural Networks](http://www.cs.utoronto.ca/~ilya/pubs/2008/tkrnn.pdf). Sutskever, Ilya, and Geoffrey Hinton. Neural Networks 23.2 (2010): 239-243. cited by 20.
+  * [Deep belief networks are compact universal approximators](https://pdfs.semanticscholar.org/a011/7ec4cd582974d06159644d12f65862a8daa3.pdf). Le Roux, Nicolas, and Yoshua Bengio. Neural computation 22.8 (2010): 2192-2207. cited by 74.
+  * [On the expressive power of deep architectures](https://pdfs.semanticscholar.org/75b3/2007ae3c5dc2a4009503a3a9d6fc9614f9e7.pdf). Bengio, Yoshua, and Olivier Delalleau. Algorithmic Learning Theory. Springer Berlin/Heidelberg, 2011. cited by 110. 
+  * [When Does a Mixture of Products Contain a Product of Mixtures?](http://mypages.iit.edu/~as2014/talks/morton.pdf). Montufar, Guido F., and Jason Morton. arXiv preprint arXiv:1206.0387 (2012). cited by 23. 
+  * [On the Number of Linear Regions of Deep Neural Networks](https://arxiv.org/pdf/1402.1869.pdf). Montúfar, Guido, Razvan Pascanu, Kyunghyun Cho, and Yoshua Bengio. arXiv preprint arXiv:1402.1869 (2014). cited by 101. 
+
+
+### Supervised Feedfoward Neural Networks
+
+  * [The Manifold Tangent Classifier](https://papers.nips.cc/paper/4409-the-manifold-tangent-classifier.pdf). Salah Rifai, Yann Dauphin, Pascal Vincent, Yoshua Bengio and Xavier Muller, in: NIPS’2011. cited by 111.
+  * [Discriminative Learning of Sum-Product Networks](http://homes.cs.washington.edu/~pedrod/papers/nips12.pdf). Gens, Robert, and Pedro Domingos, NIPS 2012 Best Student Paper. cited by 105.
+  * [Maxout networks](https://arxiv.org/pdf/1302.4389.pdf). Goodfellow, I., Warde-Farley, D., Mirza, M., Courville, A., and Bengio, Y. (2013). Technical Report, Universite de Montreal.
+  * [Improving neural networks by preventing co-adaptation of feature detectors](https://arxiv.org/pdf/1207.0580.pdf). Hinton, Geoffrey E., et al. arXiv preprint arXiv:1207.0580 (2012).
+  * [Fast dropout training](http://jmlr.csail.mit.edu/proceedings/papers/v28/wang13a.pdf). Wang, Sida, and Christopher Manning. In Proceedings of the 30th International Conference on Machine Learning (ICML-13), pp. 118-126. 2013. cited by 103. 
+  * [Deep sparse rectifier networks](http://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS2011_GlorotBB11.pdf). Glorot, Xavier, Antoine Bordes, and Yoshua Bengio. In Proceedings of the 14th International Conference on Artificial Intelligence and Statistics. JMLR W&CP Volume, vol. 15, pp. 315-323. 2011. cited by 807. 
+  * [ImageNet Classification with Deep Convolutional Neural Networks](https://www.nvidia.cn/content/tesla/pdf/machine-learning/imagenet-classification-with-deep-convolutional-nn.pdf). Alex Krizhevsky, Ilya Sutskever, Geoffrey E Hinton, NIPS 2012.
+
+### Large Scale Deep Learning
+
+  * [Building High-level Features Using Large Scale Unsupervised Learning](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/unsupervised_icml2012.pdf). Quoc V. Le, Marc’Aurelio Ranzato, Rajat Monga, Matthieu Devin, Kai Chen, Greg S. Corrado, Jeffrey Dean, and Andrew Y. Ng, ICML 2012.
+  * [Neural probabilistic language models](http://www.ai.mit.edu/projects/jmlr/papers/volume3/tmp/bengio03a.pdf). Bengio, Yoshua, et al. Innovations in Machine Learning (2006): 137-186. Specifically Section 3 of this paper discusses the asynchronous SGD.
+  * [Large scale distributed deep networks](http://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks.pdf). Dean, Jeffrey, et al. Advances in Neural Information Processing Systems. 2012. cited by 797.
+
+### Recurrent Networks
+
+  * [Training Recurrent Neural Networks](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf). Ilya Sutskever, PhD Thesis, 2012. cited by 115.
+  * [Learning long-term dependencies with gradient descent is difficult](http://www-dsi.ing.unifi.it/~paolo/ps/tnn-94-gradient.pdf). Bengio, Yoshua, Patrice Simard, and Paolo Frasconi. Neural Networks, IEEE Transactions on 5.2 (1994): 157-166.
+  * Mikolov Tomáš: [Statistical Language Models based on Neural Networks](http://www.fit.vutbr.cz/~imikolov/rnnlm/thesis.pdf). PhD thesis, Brno University of Technology, 2012.
+  * [Long short-term memory](http://web.eecs.utk.edu/~itamar/courses/ECE-692/Bobby_paper1.pdf). Hochreiter, Sepp, and Jürgen Schmidhuber. Neural computation 9.8 (1997): 1735-1780. cited by 3787.
+  * [Gradient flow in recurrent nets: the difficulty of learning long-term dependencies](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.24.7321&rep=rep1&type=pdf). Hochreiter, S., Bengio, Y., Frasconi, P., & Schmidhuber, J. (2001). 
+  * [Learning complex, extended sequences using the principle of history compression](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.49.3934&rep=rep1&type=pdf). Schmidhuber, J. (1992). Neural Computation, 4(2), 234-242. cited by 213. 
+  * [Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2006_GravesFGS06.pdf). Graves, A., Fernández, S., Gomez, F., & Schmidhuber, J. (2006, June). In Proceedings of the 23rd international conference on Machine learning (pp. 369-376). ACM.
+
+### Optimization
+
   * 
 
 
