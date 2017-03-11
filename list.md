@@ -116,7 +116,57 @@ List of reading lists and survey papers:
 
 ### Optimization
 
-  * 
+  * [Training Deep and Recurrent Neural Networks with Hessian-Free Optimization](http://www.cs.utoronto.ca/~jmartens/docs/HF_book_chapter.pdf), James Martens and Ilya Sutskever, Neural Networks: Tricks of the Trade, 2012. cited by 54.
+  * [No More Pesky Learning Rates](https://arxiv.org/pdf/1206.1106.pdf). Schaul, Tom, Sixin Zhang, and Yann LeCun. arXiv preprint arXiv:1206.1106 (2012). cited by 132.
+  * [Topmoumoute online natural gradient algorithm](https://papers.nips.cc/paper/3234-topmoumoute-online-natural-gradient-algorithm.pdf). Le Roux, Nicolas, Pierre-Antoine Manzagol, and Yoshua Bengio. Neural Information Processing Systems (NIPS). 2007. cited by 85.
+  * [SGD-QN: Careful quasi-Newton stochastic gradient descent](http://www.jmlr.org/papers/volume10/bordes09a/bordes09a.pdf). Bordes, Antoine, Léon Bottou, and Patrick Gallinari. The Journal of Machine Learning Research 10 (2009): 1737-1754. cited by 205.
+  * [Understanding the difficulty of training deep feedforward neural networks](http://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS2010_GlorotB10.pdf). Glorot, Xavier, and Yoshua Bengio. Proceedings of the International Conference on Artificial Intelligence and Statistics (AISTATS’10). Society for Artificial Intelligence and Statistics. 2010. cited by 1112.
+  * [Deep Sparse Rectifier Networks](http://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS2011_GlorotBB11.pdf). Glorot, Xavier, Antoine Bordes, and Yoshua Bengio. Proceedings of the 14th International Conference on Artificial Intelligence and Statistics. JMLR W&CP Volume. Vol. 15. 2011. cited by 807.
+  * [Deep learning via Hessian-free optimization](http://icml2010.haifa.il.ibm.com/papers/458.pdf). Martens, James. Proceedings of the 27th International Conference on Machine Learning (ICML). Vol. 951. 2010. cited by 337. 
+  * [Flat minima](http://www.bioinf.jku.at/publications/older/3304.pdf). Hochreiter, Sepp, and Jürgen Schmidhuber. Neural Computation, 9.1 (1997): 1-42. cited by 103.
+  * [Revisiting natural gradient for deep networks](https://arxiv.org/pdf/1301.3584.pdf). Pascanu, Razvan, and Yoshua Bengio. arXiv preprint arXiv:1301.3584 (2013). cited by 61. 
+  * [Identifying and attacking the saddle point problem in high-dimensional non-convex optimization](https://ganguli-gang.stanford.edu/pdf/14.SaddlePoint.NIPS.pdf). Dauphin, Yann N., Razvan Pascanu, Caglar Gulcehre, Kyunghyun Cho, Surya Ganguli, and Yoshua Bengio. In Advances in Neural Information Processing Systems, pp. 2933-2941. 2014. cited by 160. 
+
+### Unsupervised Feature Learning
+
+  * [Deep boltzmann machines](http://www.jmlr.org/proceedings/papers/v5/salakhutdinov09a/salakhutdinov09a.pdf). Salakhutdinov, Ruslan, and Geoffrey E. Hinton. Proceedings of the international conference on artificial intelligence and statistics. Vol. 5. No. 2. Cambridge, MA: MIT Press, 2009. cited by 889.
+  * [Scholarpedia page](http://www.scholarpedia.org/article/Deep_belief_networks) on Deep Belief Networks.
+
+#### Deep Boltzmann Machines
+  
+  * [An Efficient Learning Procedure for Deep Boltzmann Machines](http://www.utstat.toronto.edu/~rsalakhu/papers/neco_DBM.pdf), Ruslan Salakhutdinov and Geoffrey Hinton, Neural Computation August 2012, Vol. 24, No. 8: 1967 — 2006. cited by 273.
+  * [Deep Boltzmann Machines and the Centering Trick](http://gregoire.montavon.name/publications/montavon-lncs12.pdf). Montavon, Grégoire, and Klaus-Robert Müller. Neural Networks: Tricks of the Trade (2012): 621-637.
+  * [Efficient learning of deep boltzmann machines](http://www.jmlr.org/proceedings/papers/v9/salakhutdinov10a/salakhutdinov10a.pdf). Salakhutdinov, Ruslan, and Hugo Larochelle. International Conference on Artificial Intelligence and Statistics. 2010. cited by 271.
+  * [Learning deep generative models](http://www.cs.toronto.edu/~rsalakhu/papers/Russ_thesis.pdf). Salakhutdinov, Ruslan. Diss. University of Toronto, 2009. cited by 93.
+  * [Multi-prediction deep Boltzmann machines](http://papers.nips.cc/paper/5024-multi-prediction-deep-boltzmann-machines.pdf). Goodfellow, Ian, et al. Advances in Neural Information Processing Systems. 2013.
+
+#### RBMs
+
+  * [Unsupervised Models of Images by Spike-and-Slab RBMs](http://www.icml-2011.org/papers/591_icmlpaper.pdf), Aaron Courville, James Bergstra and Yoshua Bengio, in: ICML’2011. cited by 49. 
+  * [A practical guide to training restricted Boltzmann machines](http://www.csri.utoronto.ca/~hinton/absps/guideTR.pdf). Hinton, Geoffrey. Momentum 9.1 (2010): 926. cited by 894.
+
+### Autoencoders
+
+  * [Regularized Auto-Encoders Estimate Local Statistics](https://pdfs.semanticscholar.org/57e1/7ce6e9a06aa8137ea355ba53073e3ffc7de6.pdf), Guillaume Alain, Yoshua Bengio and Salah Rifai, Université de Montréal, arXiv report 1211.4246, 2012. 
+  * [A Generative Process for Sampling Contractive Auto-Encoders](http://icml.cc/2012/papers/910.pdf). Salah Rifai, Yoshua Bengio, Yann Dauphin and Pascal Vincent, in: ICML’2012, Edinburgh, Scotland, U.K., 2012.
+  * [Contracting Auto-Encoders: Explicit invariance during feature extraction](http://www.iro.umontreal.ca/~lisa/pointeurs/ICML2011_explicit_invariance.pdf), Salah Rifai, Pascal Vincent, Xavier Muller, Xavier Glorot and Yoshua Bengio, in: ICML’2011.
+  * [Disentangling factors of variation for facial expression recognition](https://pdfs.semanticscholar.org/f9c4/31f58565f874f76a024add2aa80717ec5cf5.pdf), Salah Rifai, Yoshua Bengio, Aaron Courville, Pascal Vincent and Mehdi Mirza, in: ECCV’2012.
+  * [Stacked denoising autoencoders: Learning useful representations in a deep network with a local denoising criterion](http://jmlr.csail.mit.edu/papers/volume11/vincent10a/vincent10a.pdf)Vincent, Pascal, et al. The Journal of Machine Learning Research 11 (2010): 3371-3408.
+  * [A connection between score matching and denoising autoencoders](http://www.iro.umontreal.ca/~vincentp/Publications/smdae_techreport.pdf). Vincent, Pascal. Neural computation 23.7 (2011): 1661-1674.
+  * [Marginalized denoising autoencoders for domain adaptation](https://arxiv.org/pdf/1206.4683.pdf). Chen, Minmin, et al. arXiv preprint arXiv:1206.4683 (2012).
+
+
+## Miscellaneous
+
+  * ICML
+    * [ICML 2009 Workshop on Learning Feature Hierarchies](http://www.cs.toronto.edu/~rsalakhu/deeplearning/references.html).
+  * [Stanford’s UFLDL Recommended Readings](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Recommended_Readings).
+  * [MILA - Montreal Institute for Learning Algorithms](https://mila.umontreal.ca/en/)
+    * [ReadingOnDeepNetworks](http://www.iro.umontreal.ca/~lisa/twiki/bin/view.cgi/Public/ReadingOnDeepNetworks)
+  * [Geoffrey E. Hinton](http://www.cs.toronto.edu/~hinton/)
+  * [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html)
+  * Memkite's [Deep Learning Bibliography](http://memkite.com/deep-learning-bibliography/).
+  * Jeremy D. Jackson, PHD, [CATEGORY ARCHIVES for DEEP LEARNING](http://www.jeremydjacksonphd.com/category/deep-learning/)
 
 
 
